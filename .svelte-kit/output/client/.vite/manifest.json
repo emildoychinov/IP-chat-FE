@@ -1,0 +1,55 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ],
+    "file": "_app/immutable/entry/app.4a0d5864.js",
+    "imports": ["_scheduler.e108d1fd.js", "_index.a21d6cee.js"],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.18524db0.js",
+    "imports": ["_scheduler.e108d1fd.js", "_index.a21d6cee.js"],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.b76ca3fc.js",
+    "imports": [
+      "_scheduler.e108d1fd.js",
+      "_index.a21d6cee.js",
+      "_singletons.b66cc461.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.8c18886e.js",
+    "imports": ["_scheduler.e108d1fd.js", "_index.a21d6cee.js"],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  "_index.a21d6cee.js": {
+    "file": "_app/immutable/chunks/index.a21d6cee.js",
+    "imports": ["_scheduler.e108d1fd.js"]
+  },
+  "_scheduler.e108d1fd.js": {
+    "file": "_app/immutable/chunks/scheduler.e108d1fd.js"
+  },
+  "_singletons.b66cc461.js": {
+    "file": "_app/immutable/chunks/singletons.b66cc461.js",
+    "imports": ["_scheduler.e108d1fd.js"]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.93e46b15.js",
+    "imports": ["_scheduler.e108d1fd.js", "_singletons.b66cc461.js"],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  }
+}
